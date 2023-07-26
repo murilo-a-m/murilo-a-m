@@ -20,3 +20,5 @@
   <a href = "mailto:muriloam@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/muriloam17" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+Feel free to connect with me or reach out via email if you want to discuss anything related to autonomous vehicles, AMRs, AGVs, Autonomous Forklifts, or development of management systems! 😊🚀
